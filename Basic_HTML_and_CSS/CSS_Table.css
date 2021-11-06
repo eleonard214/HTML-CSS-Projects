@@ -1,0 +1,9 @@
+table{
+    background-color: slateblue;
+    color:turquoise;
+    border:10px solid thistle;
+}
+td:hover{
+    background-color: yellow;
+    color:violet;
+}

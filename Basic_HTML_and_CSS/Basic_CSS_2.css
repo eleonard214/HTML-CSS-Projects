@@ -1,0 +1,10 @@
+
+p {
+    color:rgb(243, 13, 193);
+    background-color: silver;
+    font-size: x-large;
+    text-align: center;
+}
+footer p{
+    text-shadow: 2px 2px cadetblue;
+}
